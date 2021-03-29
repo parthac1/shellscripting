@@ -5,11 +5,14 @@ read number2
 
 addition=$(($number1+$number2))
 multiplication=$(($number1*$number2))
+division=$(($number1/$number2))
 
 
 echo "Addition of the 2 numbers are $addition"
 
 echo " multiplication of the 2 numbers are $multiplication"
+
+echo " Division of 2 numbers are $division"
 
 
 
