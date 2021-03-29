@@ -11,5 +11,6 @@ echo "Addition of the 2 numbers are $addition"
 
 echo " multiplication of the 2 numbers are $multiplication"
 
+# Print the Division result 
 
 
